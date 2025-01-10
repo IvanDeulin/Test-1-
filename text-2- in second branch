@@ -1,0 +1,3 @@
+echo "Feature branch update" >> test.txt
+git commit -am "Update in feature branch"
+git push origin feature/test-branch
